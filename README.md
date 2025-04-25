@@ -2,6 +2,8 @@
 
 This project clusters credit applicants based on financial and demographic features using unsupervised machine learning. It helps identify groups such as low-risk, medium-risk, and high-risk applicants without labeled target data.
 
+# video demonstration : 
+[![Video Thumbnail](https://example.com/image.jpg)](https://drive.google.com/file/d/1mbnHpjZX49RAbGmWp4QcZjax83NXjjbp/view)
 ---
 
 ## 🚀 Project Summary
