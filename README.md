@@ -93,9 +93,12 @@ Since this is **unsupervised**, we use:
 
 ## 📬 How to Run
 
-### 🔷 Streamlit App
+### 🔷 Gradio App:
+Valid till 1-05-25
+[Open Gradio App](https://8555d6307a33f3b581.gradio.live/)
 
 ```bash
 pip install gradio
 python gradio_app.py
+
 
